@@ -1,1 +1,2 @@
 this a sample file.
+another line in master.
