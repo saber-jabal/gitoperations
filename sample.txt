@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this a sample file.
 another line in master.
+=======
+Feature branch commit 1
+>>>>>>> feature/soon-to-be-discarded
